@@ -1,0 +1,55 @@
+[
+    {
+        "image": "./images/chatbot2.png",
+        "name": "Chatbot",
+        "description": "The chatbot is a bot for ordering 'fika' from an imaginary company called Fast Fika. The user is presented with options of ordering buns, cakes or sandwiches. The chat conversation is created in JavaScript.",
+        "tech": [
+        "HTML5",
+        "CSS3",
+        "Javascript"
+    ],
+    "githublink": "https://github.com/AnnikaSonnek/project-chatbot",
+    "livelink": "https://inquisitive-snickerdoodle-f2725e.netlify.app/"
+    },
+    {
+        "image": "./images/weather-app.png",
+        "name": "Wheater app",
+        "description": "The Weather app displays the present weather and a 5-day forcast weather of Stockholm. The app was built in Javascript and uses a fetch request to a weather-API. The app is responsive and can be displayed in various devices.",
+        "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript", 
+        "API"
+    ],
+    "githublink": "https://github.com/AnnikaSonnek/project-weather-app",
+    "livelink": "https://dashing-kataifi-1ac97f.netlify.app/"
+    },
+    {
+        "image": "./images/guess-who.png",
+        "name": "Guess Who Game",
+        "description": "This game is based on the classic Guess Who-game. The user asks questions via a drop down menu and the characters are filtered based on the user's input. The game is built in JavaScript.",
+        "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+    ],
+    "githublink": "https://github.com/AnnikaSonnek/project-guess-who",
+    "livelink": "https://stately-moonbeam-a9c692.netlify.app/"
+    },
+    {
+        "image": "./images/music-releases.png",
+        "name": "Music releases",
+        "description": "This music releases project was built in React using components and an API from Spotify. The user can click the links of the artists and the albums.",
+        "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript", 
+        "React", 
+        "API"
+    ],
+    "githublink": "https://github.com/AnnikaSonnek/project-music-releases",
+    "livelink": "https://velvety-dasik-91248e.netlify.app/?"
+    }   
+    
+
+]
